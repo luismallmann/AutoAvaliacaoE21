@@ -192,18 +192,18 @@
 
 - **Pontos positivos**  
 *Algo em que você se destacou, seja técnico ou comportamental*   
-- Comprometimento na entrega dos resultados para a equipe, tendo percepção das prioridades e particularidades de cada situação.
+Comprometimento na entrega dos resultados para a equipe, tendo percepção das prioridades e particularidades de cada situação.
          
 
 - **Pontos de melhoria**  
 *Algo em que você considera que tenha ido bem, mas que de alguma forma tenha aptidão de melhorar, seja técnico ou comportamental*
-- Organização dos códigos. Há como refinar as soluções apresentadas, deixando o código mais limpo e apresentável. Tal tarefa demanda maior tempo de desenvolvimento, porém, há ganho de produtividade em futuras situações.
+Organização dos códigos. Há como refinar as soluções apresentadas, deixando o código mais limpo e apresentável. Tal tarefa demanda maior tempo de desenvolvimento, porém, há ganho de produtividade em futuras situações.
    
 
 
 - **Observação geral**  
 *De uma forma geral, comentar e destacar alguma característica ou habilidade que tenha desenvolvido durante as aulas e que julgue que possa ser útil para uma empresa, que possa agregar valor a seu curriculo*
-- Capacidade de aprender com diferentes opiniões e ideias.
+Capacidade de aprender com diferentes opiniões e ideias.
 
 ## Experiência e Conhecimentos Prévios 
 ---
