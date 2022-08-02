@@ -192,17 +192,20 @@
 
 - **Pontos positivos**  
 *Algo em que você se destacou, seja técnico ou comportamental*   
+
 Comprometimento na entrega dos resultados para a equipe, tendo percepção das prioridades e particularidades de cada situação.
          
 
 - **Pontos de melhoria**  
 *Algo em que você considera que tenha ido bem, mas que de alguma forma tenha aptidão de melhorar, seja técnico ou comportamental*
+
 Organização dos códigos. Há como refinar as soluções apresentadas, deixando o código mais limpo e apresentável. Tal tarefa demanda maior tempo de desenvolvimento, porém, há ganho de produtividade em futuras situações.
    
 
 
 - **Observação geral**  
 *De uma forma geral, comentar e destacar alguma característica ou habilidade que tenha desenvolvido durante as aulas e que julgue que possa ser útil para uma empresa, que possa agregar valor a seu curriculo*
+
 Capacidade de aprender com diferentes opiniões e ideias.
 
 ## Experiência e Conhecimentos Prévios 
@@ -210,18 +213,23 @@ Capacidade de aprender com diferentes opiniões e ideias.
 Fale sobre seu nível de conhecimento a cerca de "desenvolvimento de software" antes de iniciar o E21
 
 1. Você já sabia programar, se sim, quais linguagens? 
-- Sim. Durante a graduação tive contato com Pascal, C, Java, JavaScript, HTML, CSS, SQL, PHP e Dart(Flutter);
+
+Sim. Durante a graduação tive contato com Pascal, C, Java, JavaScript, HTML, CSS, SQL, PHP e Dart(Flutter);
 
 2. Você fez algum curso na área ou está cursando, se sim qual curso (Curso livre, Técnico, Nível superiror, etc)? 
-- Sim, sou bacherel em Ciência da Computação, formado em 2020.
+
+Sim, sou bacherel em Ciência da Computação, formado em 2020.
 
 3. Você já teve alguma experiencia profissional em alguma empresa de desenvolvimento de software, se sim, conte um pouco a respeito.
-- Não
+
+Não
 
 4. Você está trabalhando atualmente, conte um pouco a respeito?
-- Sim, sou funcionário do Banco do Brasil. Durante a graduação já trabalhava na instituição, desse modo acabei nunca trabalhando na área de programação. Busquei o Entra21, pois, vi nele uma oportunidade para relembrar os conhecimentos já adquiridos e quem sabe impulsionar oportunidades de emprego que me possibiletem concicilar a atividade atual com a programação.
+
+Sim, sou funcionário do Banco do Brasil. Durante a graduação já trabalhava na instituição, desse modo acabei nunca trabalhando na área de programação. Busquei o Entra21, pois, vi nele uma oportunidade para relembrar os conhecimentos já adquiridos e quem sabe impulsionar oportunidades de emprego que me possibiletem concicilar a atividade atual com a programação.
 
 5. Você está estudando atualmente (ensino médio, superior, outros...)?  
-- No momento estou me dedicando apenas ao Entra21.
+
+No momento estou me dedicando apenas ao Entra21.
 
 
